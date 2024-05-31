@@ -3,7 +3,7 @@
 <br>
 <br>
 <div align="center">
-  <img src="https://github.com/shubhashsharma0/Ludo/assets/90338107/5478fe94-2dff-43c0-bb92-fca2d51ed110" width="200">
+  <img src="https://github.com/shubhashsharma0/Ludo/assets/90338107/75985416-1462-4496-a501-302082791307" width="200">
 </div>
 <br>
 <br>
@@ -29,3 +29,6 @@
 <div align="center">
   <img src="https://github.com/shubhashsharma0/Ludo/assets/90338107/95d99798-58fc-41c4-b84f-37abc4651d75" width="200">
 </div>
+
+![splash_screen]()
+https://github.com/shubhashsharma0/Ludo/assets/90338107/75985416-1462-4496-a501-302082791307
